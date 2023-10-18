@@ -400,6 +400,7 @@ p, address {
   font-weight: 400;
   color: #1A6692;
   margin-bottom: 15px;
+  text-decoration: none;
 }
 
 .tm-gallery-description {
